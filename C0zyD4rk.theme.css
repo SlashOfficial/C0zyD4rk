@@ -1,0 +1,38 @@
+/**
+ * @name C0zy D4rk
+ * @description The perfect dark theme for discord
+ * @author kxcq
+ * @version 1.0.0
+ * @authorId 693003315608420373
+ * @source https://github.com/SlashOfficial/C0zyD4rk
+ * @updateUrl https://github.com/SlashOfficial/C0zyD4rk
+ */
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+
+:root {
+  --font: "Lato", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --settingsicons: 1;
+
+  --accentcolor: 144, 204, 244;
+  --accentcolor2: 255, 204, 132;
+  --linkcolor: 255, 255, 255;
+  --mentioncolor: 144, 204, 244;
+  --successcolor: 59, 165, 92;
+  --warningcolor: 250, 166, 26;
+  --dangercolor: 237, 66, 69;
+
+  --textbrightest: 255, 255, 255;
+  --textbrighter: 222, 222, 222;
+  --textbright: 185, 185, 185;
+  --textdark: 140, 140, 140;
+  --textdarker: 115, 115, 115;
+  --textdarkest: 80, 80, 80;
+
+  --backgroundaccent: 23, 25, 35;
+  --backgroundprimary: 26, 32, 44;
+  --backgroundsecondary: 23, 25, 35;
+  --backgroundsecondaryalt: 23, 25, 35;
+  --backgroundtertiary: 23, 25, 35;
+  --backgroundfloating: 26, 32, 44;
+}
